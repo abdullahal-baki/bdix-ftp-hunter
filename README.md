@@ -4,7 +4,7 @@ BDIX FTP Hunter is the best tool for finding working FTP servers on your broadba
 
 ### Check Release 
 or<br>
-Download Link: https://github.com/abdullahal-baki/bdix-ftp-hunter/releases/download/v-2.3/BDIX-FTP-Hunter-v2.3.exe
+Download Link: https://github.com/abdullahal-baki/bdix-ftp-hunter/releases/download/v-2.4/BDIX-FTP-Hunter-v2.4.exe
 
 
 ## New GUI Version
