@@ -2,7 +2,7 @@
 
 BDIX FTP Hunter is the best tool for finding working FTP servers on your broadband connection. The best feature of this tool is that it can automatically open working servers on your browser.
 
-Official Channed: https://t.me/bdixftphunter <be>
+Official Channed: https://t.me/bdixftphunter <br>
 Chat Group: https://t.me/bdixftpchat
 
 ### Check Release 
