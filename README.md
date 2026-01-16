@@ -13,8 +13,10 @@ or<br>
 Download Link: [https://github.com/abdullahal-baki/bdix-ftp-hunter/releases/download/v-2.4/BDIX-FTP-Hunter-v2.4.exe](https://github.com/abdullahal-baki/bdix-ftp-hunter/releases/download/v-2.5/BDIX-FTP-Hunter-v2.5.exe)
 
 
+
 ## New GUI Version
 ![](sample2.png)
+
 
 ## Old version
 ![sample](sample.png)
